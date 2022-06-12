@@ -1,0 +1,33 @@
+div{
+    width: 200px;
+    box-shadow: 5px 5px 10px rgb(209, 209, 209);
+}
+img{
+    width: 200px;
+}
+.first{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.second{
+    color: rgb(100, 100, 100);
+    margin-top: 2px;
+  margin-left: 8px;
+  margin-bottom: 12px;
+}
+button{
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
